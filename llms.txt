@@ -1,0 +1,33 @@
+# Comparadiplôme
+
+> Le média qui compare les organismes de formation à distance, leurs programmes, leurs tarifs et leurs taux de réussite.
+
+Site : https://analytics-ds.github.io/comparadiplome/
+
+## Rubriques
+
+- [Cuisine et pâtisserie](https://analytics-ds.github.io/comparadiplome/cuisine/) : Comparatifs des formations CAP cuisine, CAP pâtissier et boulangerie à distance. Programmes relevés, tarifs 2026, exercices corrigés, avis élèves. Le classement de 14 organismes.
+- [Métiers du bâtiment](https://analytics-ds.github.io/comparadiplome/batiment/) : Comparatifs des CAP du bâtiment à distance, électricien, froid et climatisation, plomberie, menuiserie. Programmes, tarifs 2026, habilitations et débouchés. Le classement de 10 organismes.
+- [Mécanique auto et moto](https://analytics-ds.github.io/comparadiplome/mecanique/) : Comparatifs des CAP mécanique automobile et moto à distance. Programmes, tarifs 2026, ateliers partenaires, débouchés en concession et en garage. Le classement de 9 organismes.
+- [Santé et bien-être](https://analytics-ds.github.io/comparadiplome/sante/) : Comparatifs des formations santé à distance, BTS diététique, CAP petite enfance, esthétique, secrétariat médical. Programmes, tarifs 2026, taux de réussite. Le classement de 10 organismes.
+- [Financement et diplômes](https://analytics-ds.github.io/comparadiplome/financement/) : Combien coûte un CAP à distance et comment le financer en 2026. CPF, France Travail, apprentissage, paiement échelonné. Tarifs relevés chez 14 organismes et solutions comparées.
+
+## Comparatifs
+
+- [L'atelier des Chefs ou YouSchool pour un CAP cuisine en 2026 ?](https://analytics-ds.github.io/comparadiplome/cuisine/atelier-des-chefs-ou-youschool/) : L'atelier des Chefs ou YouSchool pour un CAP cuisine ? 10 critères comparés, 560 heures contre 480, 2 390 € contre 1 890 €. Notre verdict et le détail des écarts.
+- [Quelle est la meilleure formation CAP cuisine à distance en 2026 ?](https://analytics-ds.github.io/comparadiplome/cuisine/meilleure-formation-cap-cuisine/) : Quelle est la meilleure formation CAP cuisine à distance ? 12 écoles comparées, tarifs de 990 € à 3 190 €, volume horaire et pratique corrigée. Le verdict.
+- [Quel organisme pour un CAP électricien à distance en 2026 ?](https://analytics-ds.github.io/comparadiplome/batiment/cap-electricien-distance/) : Quel organisme pour un CAP électricien à distance ? 10 organismes comparés, tarifs de 1 090 à 3 090 €, volumes horaires, habilitations et salaires de sortie.
+- [Comment passer un CAP pâtissier quand on est adulte en 2026 ?](https://analytics-ds.github.io/comparadiplome/cuisine/cap-patissier-adulte/) : Comment passer un CAP pâtissier quand on est adulte ? Quatre voies comparées, de la formation à distance à 2 390 € au CFA rémunéré, et 6 mois avec dispenses.
+- [Quelle formation BTS diététique à distance choisir en 2026 ?](https://analytics-ds.github.io/comparadiplome/sante/bts-dietetique-distance/) : Quelle est la meilleure formation BTS diététique à distance ? 10 écoles comparées, tarifs sur deux ans relevés de 1 590 € à 4 490 €, accompagnement des 20 semaines de stage noté.
+- [Combien coûte un CAP à distance en 2026 ? Les tarifs relevés](https://analytics-ds.github.io/comparadiplome/financement/prix-cap-distance/) : Combien coûte un CAP à distance en 2026 ? De 990 € au CNED à 3 490 € en école privée, moyenne à 2 240 €. Tarifs de 14 écoles et reste à charge après CPF.
+- [Quel CAP pour devenir frigoriste climaticien en 2026 ? 6 diplômes comparés](https://analytics-ds.github.io/comparadiplome/batiment/cap-froid-climatisation/) : Le diplôme s'appelle CAP Installateur en froid et conditionnement d'air. Nous comparons 6 diplômes du froid, leurs durées de 5 jours à 3 ans et leurs débouchés.
+- [CAP mécanique auto ou CAP mécanique moto, lequel choisir ?](https://analytics-ds.github.io/comparadiplome/mecanique/cap-mecanique-auto-moto/) : CAP mécanique auto ou CAP mécanique moto ? Un seul diplôme, le CAP Maintenance des véhicules, 3 options et 2 marchés très inégaux. Salaires, stage et verdict.
+- [Comment financer un CAP à distance avec le CPF en 2026 ?](https://analytics-ds.github.io/comparadiplome/financement/financer-cap-cpf/) : Comment financer un CAP à distance avec le CPF en 2026 ? Sept dispositifs comparés, un tarif moyen de 2 240 €, un solde CPF moyen de 1 600 € et le reste à charge réel.
+
+## Méthode
+
+- Les tarifs sont relevés sur les sites officiels des écoles en septembre 2026, hors promotion de rentrée
+- Les volumes horaires et le détail des parcours viennent des programmes publiés par chaque organisme
+- Les certifications sont vérifiées fiche par fiche, Qualiopi d'un côté, enregistrement au Répertoire national des certifications professionnelles de l'autre
+- Les avis élèves sont ceux publiés sur Trustpilot et sur les fiches Google, toutes notes confondues
+- Les modalités de financement sont recoupées avec Mon Compte Formation et avec les règles de l'apprentissage en vigueur
